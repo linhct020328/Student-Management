@@ -77,7 +77,7 @@
 <html>
 <head>
     <title>Edit Students</title>
-    <link rel="stylesheet" type="text/css" href="css/add.css">
+    <link rel="stylesheet" type="text/css" href="add.css">
 </head>
 <body>
     <div class="container">
