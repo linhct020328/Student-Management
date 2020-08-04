@@ -16,3 +16,5 @@ CREATE TABLE `sv` (
 
 ALTER TABLE `sv`
   ADD PRIMARY KEY (`maSV`)
+  
+  note: chưa có js, bạn có thể làm javascrip tương tự trong https://github.com/linhct020328/form-Login-Regist
