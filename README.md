@@ -1,7 +1,9 @@
 # Student-Management
-
+add+edit+delete+search on MySQLi Object-Oriented
 myphpadmin
+
 create database sinhvien;
+
 CREATE TABLE `sv` (
   `maSV` varchar(8) NOT NULL,
   `tenSV` varchar(30)  NOT NULL,
